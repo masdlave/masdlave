@@ -4,5 +4,5 @@
 - Desarrollo Web (HTML, CSS, JavaScript | Bootstrap, Kotlin)
 - Programación | ```Java``` ```C / C++``` ```Python``` ```Arduino``` ```C#```
 
-> [!WARNING]  
+> [!NOTE]  
 > Estudiante activo
