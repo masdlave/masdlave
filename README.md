@@ -18,6 +18,7 @@
 ---
 # Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
+[![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/Carlico7/Carlico7/graphs/contributors)
 ---
 
 > [!NOTE]  
