@@ -18,9 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ### Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
-
 ---
-## Copyright © 2025
 <img src="masdlave-logo.jpg" alt="Logo" width="50"> © 2025 Maria Salazar
 ---
 
