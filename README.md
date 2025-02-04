@@ -6,3 +6,6 @@
 
 > [!NOTE]  
 > Estudiante activo
+
+[![masdlave's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=masdlave\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/masdlave/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![masdlave's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=masdlave\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/masdlave/github-readme-stats#responsive-card-theme#gh-light-mode-only)
