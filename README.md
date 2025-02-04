@@ -19,8 +19,6 @@
 ### Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
 
-<img src="masdlave-logo.jpg" alt="Logo" width="250"/>
-
 > [!NOTE]  
 > Estudiante activo
 
