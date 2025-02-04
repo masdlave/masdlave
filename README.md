@@ -1,4 +1,4 @@
-## Maria Salazar
+# Maria Salazar
 [Telegram](https://t.me/masdlave) | [Github](https://github.com/masdlave)
 
 - Desarrollo Web (HTML, CSS, JavaScript | Bootstrap, Kotlin)
@@ -16,7 +16,7 @@
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ---
-# Colaboradores
+### Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
 ---
 
