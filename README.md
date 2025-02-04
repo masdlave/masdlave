@@ -15,9 +15,10 @@
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ### Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
+
 > [!NOTE]  
 > Estudiante activo
 
