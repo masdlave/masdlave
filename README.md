@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ---
+![Projects](masdlave-projects.jpg)
+
 ## Proyectos destacados
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
