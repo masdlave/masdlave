@@ -19,10 +19,8 @@
 ### Colaboradores
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
 ---
-<img src="masdlave-logo.jpg" alt="Logo" width="50"> © 2025 Maria Salazar
+<img src="masdlave-logo.jpg" alt="Logo" width="50"> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 ---
 
 > [!NOTE]  
 > Estudiante activo
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
