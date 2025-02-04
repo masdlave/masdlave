@@ -20,9 +20,8 @@
 [![Colaboradores](https://contrib.rocks/image?repo=masdlave/masdlave)](https://github.com/masdlave/masdlave/graphs/contributors)
 
 ---
-
 ## Copyright © 2025
-<img src="masdlave-logo.jpg" alt="Logo" width="50"> © 2025 Mi Nombre o Mi Empresa.
+<img src="masdlave-logo.jpg" alt="Logo" width="50"> © 2025 Maria Salazar
 ---
 
 > [!NOTE]  
