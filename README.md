@@ -15,7 +15,7 @@
 
 ## Proyectos destacados
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ---
