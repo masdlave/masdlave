@@ -1,7 +1,7 @@
 # Maria Salazar
 > Despacito y con buena letra.
 
-¡Saludos! Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me dedico a _desarrollar código **académicamente**_ con el avance constante en mi formación individual y colectiva. Una **buena práctica en programación** es, sin duda, _aprender de retos nuevos_ cada día; mi reto diario es _desafiar mi aprendizaje_. La organización más adecuada se aplica con esmero y excelencia, _despacito y con buena letra_.
+**¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me dedico a _desarrollar código **académicamente**_ con el avance constante en mi formación individual y colectiva. Una **buena práctica en programación** es, sin duda, _aprender de retos nuevos_ cada día; mi reto diario es _desafiar mi aprendizaje_. La organización más adecuada se aplica con esmero y excelencia, _despacito y con buena letra_.
 
 [Telegram](https://t.me/masdlave) | [Github](https://github.com/masdlave)
 
