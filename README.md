@@ -21,7 +21,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ### Colaboradores
-[<img src="https://github.com/masdlave.png" width="50px" alt="Maria Salazar"/>](https://github.com/masdlave)
+[<img src="https://github.com/masdlave.png" width="50px" styles="border-radius: 50%" alt="Maria Salazar"/>](https://github.com/masdlave)
 [<img src="https://github.com/Vitexus1.png" width="50px" alt="Vitexus"/>](https://github.com/Vitexus1)
 [<img src="https://github.com/Carlico7.png" width="50px" alt="Carlos Montes"/>](https://github.com/Carlico7)
 ---
