@@ -26,6 +26,6 @@
 [<img src="https://github.com/Carlico7.png" width="50px" alt="Carlos Montes"/>](https://github.com/Carlico7)
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masdlave)
-   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave)   [![Game Jolt](https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@masdlave)
+   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
 
 
