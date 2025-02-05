@@ -17,7 +17,7 @@
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Space-Invaders-en-Java)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ### Colaboradores
