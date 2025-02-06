@@ -12,7 +12,6 @@
 
 > [!NOTE]  
 > Estudiante activo
----
 ![Projects](masdlave-projects.jpg)
 
 ## Proyectos destacados
