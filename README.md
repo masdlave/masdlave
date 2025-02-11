@@ -20,7 +20,6 @@
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=donut-vertical)](https://github.com/masdlave/github-readme-stats)
 ### Colaboradores
 [<img src="https://github.com/masdlave.png" width="50px" alt="Maria Salazar"/>](https://github.com/masdlave)
 [<img src="https://github.com/Vitexus1.png" width="50px" alt="Vitexus"/>](https://github.com/Vitexus1)
