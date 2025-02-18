@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdlave&show_icons=true&hide_title=true)
-
 [^1]: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 [^2]: Java ([IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)), HTML/CSS/Bootstrap ([VS Code](https://code.visualstudio.com)), software de virtualización con [VirtualBox](https://www.virtualbox.org), [MySQL Workbench](https://www.mysql.com/products/workbench/)...
 
@@ -57,5 +55,7 @@
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdlave&show_icons=true&hide_title=true)
 
 
