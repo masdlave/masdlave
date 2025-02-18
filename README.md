@@ -1,7 +1,7 @@
 # Maria Salazar
 > Desarrollo de Aplicaciones Multiplataforma
 
-**¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me dedico a _desarrollar código **académicamente**_[^1] con el avance constante en mi formación individual y colectiva. Una **buena práctica en programación**[^2] es, sin duda, _desarrollar ideas creativas nuevas_ cada día; mi reto diario es _desafiar mi creatividad_. Una favorable inpiración se aplica con esmero y excelencia, _despacito y con buena letra_.
+**¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me especializo en el **_desarrollo de código_** académica y profesionalmente, con un compromiso constante con el aprendizaje tanto individual como colectivo. Considero que una _buena práctica de programación_ no solo requiere técnica, sino también una **actitud creativa e innovadora**. Por ello, asumo el desafío de _estimular mi creatividad diariamente_; la dedicación, la precisión y un esfuerzo meticuloso en cada detalle **marcan la diferencia**.
 [^1]: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 [^2]: Java ([IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)), HTML/CSS/Bootstrap ([VS Code](https://code.visualstudio.com)), software de virtualización con [VirtualBox](https://www.virtualbox.org), [MySQL Workbench](https://www.mysql.com/products/workbench/)...
 
