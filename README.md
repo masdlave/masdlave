@@ -23,10 +23,8 @@
   <a href="https://www.w3schools.com/git/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdlave&layout=compact)
-
 > [!NOTE]  
-> Estudiante activo
+> **Estudiante** activo
 ![Projects](masdlave-projects.jpg)
 
 ## Proyectos destacados
