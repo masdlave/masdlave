@@ -1,7 +1,7 @@
 # Maria Salazar
 > Desarrollo de Aplicaciones Multiplataforma
 
-**¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me especializo en el **_desarrollo de código_** académica y profesionalmente, con un compromiso constante con el aprendizaje tanto individual como colectivo. Considero que una _buena práctica de programación_ no solo requiere técnica, sino también una **actitud flexible y visionaria**. Trabajo constantemente en _estimular mi creatividad_; la dedicación, la precisión y un esfuerzo meticuloso en cada detalle **marcan la diferencia**.
+**¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me especializo en el **_desarrollo de código_**[^1] académica y profesionalmente, con un compromiso constante con el aprendizaje tanto individual como colectivo. Considero que una _buena práctica de programación_[^2] no solo requiere técnica, sino también una **actitud flexible y visionaria**. Trabajo constantemente en _estimular mi creatividad_; la dedicación, la precisión y un esfuerzo meticuloso en cada detalle **marcan la diferencia**.
 <p align="left">
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 Logo"/></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
