@@ -39,6 +39,7 @@
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masdlave)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdlave&show_icons=true&hide_title=true)
 
