@@ -22,8 +22,7 @@
 </p>
 
 > [!NOTE]  
-> **Estudiante** activo
-![Projects](masdlave-projects.jpg)
+> ![Projects](masdlave-projects.jpg)
 
 ## Proyectos destacados
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
