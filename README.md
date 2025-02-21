@@ -7,8 +7,6 @@
 [^2]: Java ([IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)), HTML/CSS/Bootstrap ([VS Code](https://code.visualstudio.com)), software de virtualización con [VirtualBox](https://www.virtualbox.org), [MySQL Workbench](https://www.mysql.com/products/workbench/)...
 
 [Telegram](https://t.me/masdlave) | [Github](https://github.com/masdlave) | <a href="https://profile.w3schools.com/usuarios/masdlave"> <b>W3Schools</b> </a>
-- Desarrollo Web (HTML, CSS, JavaScript | Bootstrap, Kotlin)
-- Multiplataforma | ```Java``` ```Arduino``` ```C#```
 <p align="left">
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 Logo"/></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
