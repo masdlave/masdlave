@@ -38,7 +38,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masdlave)
-[![Discord](https://img.shields.io/badge/Discord-Profile-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1285654686027743272)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1285654686027743272?animated=true&borderRadius=25px&hideActivity=true&theme=light)](https://discord.com/users/1285654686027743272)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdlave&show_icons=true&hide_title=true)
 
