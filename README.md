@@ -6,7 +6,7 @@
 [^1]: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 [^2]: Java ([IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)), HTML/CSS/Bootstrap ([VS Code](https://code.visualstudio.com)), software de virtualización con [VirtualBox](https://www.virtualbox.org), [MySQL Workbench](https://www.mysql.com/products/workbench/)...
 
-[Telegram](https://t.me/masdlave) | [Github](https://github.com/masdlave) | <a href="https://profile.w3schools.com/usuarios/masdlave"> <b>W3Schools</b> </a>
+[Telegram](https://t.me/masdlave) | [Github](https://github.com/masdlave) | <a href="https://masdlave.w3spaces.com"> <b>W3Schools</b> </a>
 <p align="left">
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 Logo"/></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
@@ -33,11 +33,11 @@
 ### Colaboradores
 [<img src="https://github.com/masdlave.png" width="50px" alt="Maria Salazar"/>](https://github.com/masdlave)
 [<img src="https://github.com/Vitexus1.png" width="50px" alt="Vitexus"/>](https://github.com/Vitexus1)
-[<img src="https://github.com/w3schools-test.png" width="50px" alt="W3Schools"/>](https://www.youtube.com/@masdlave)
+[<img src="https://github.com/w3schools-test.png" width="50px" alt="W3Schools"/>](https://www.w3schools.com)
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masdlave)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdlave&show_icons=true&hide_title=true)
 
