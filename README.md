@@ -6,7 +6,7 @@
   <a href="#proyectos-destacados">Proyectos destacados</a> | <a href="#arduino-4wd-car-kit-timelapse">Arduino 4WD Car Kit timelapse</a> | <a href="#colaboradores">Colaboradores</a>
 </details>
 
-![Banner](masdlaveBanner.jpg)
+![Banner](masdlaveBanner.png)
 
 **¡Saludos!** 📎 Estás leyendo la presentación de **Maria Salazar** (_@masdlave_). Me especializo en el **_desarrollo de código_**[^1] académica y profesionalmente, con un compromiso constante con el aprendizaje tanto individual como colectivo. Considero que una _buena práctica de programación_[^2] no solo requiere técnica, sino también una **actitud flexible y visionaria**. Trabajo constantemente en _estimular mi creatividad_; la dedicación, la precisión y un esfuerzo meticuloso en cada detalle **marcan la diferencia**.
 
