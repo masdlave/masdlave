@@ -27,7 +27,7 @@
 > [!NOTE]
 > ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masdlave&theme=github)
 
-[![Projects](masdlave-projects.jpg)](https://github.com/masdlave)
+[![Projects](masdlave-projects.jpg)](https://github.com/masdlave?tab=repositories)
 ## Proyectos destacados
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)](https://github.com/masdlave/masdlave)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)](https://github.com/masdlave/Arduino-4WD-Car-Kit)
