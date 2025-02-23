@@ -29,10 +29,10 @@
 
 ![Projects](masdlave-projects.jpg)
 ## Proyectos destacados
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)](https://github.com/masdlave/masdlave)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)](https://github.com/masdlave/Arduino-4WD-Car-Kit)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)](https://github.com/masdlave/ALB-Doom-Mod)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)](https://github.com/masdlave/Space-Invaders-en-Java)
 ---
 #### Arduino 4WD Car Kit timelapse
 [![Video](https://i.ytimg.com/vi/M6Ek7EjPxiQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ7LGToZf2BkTcDRdJDe5qDjvDUg)](https://youtu.be/M6Ek7EjPxiQ?feature=shared)
