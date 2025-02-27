@@ -39,7 +39,7 @@
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)](https://github.com/masdlave/Space-Invaders-en-Java)
 ---
 #### Freenove 4WD Car Kit timelapse
-[![Video](https://i.ytimg.com/vi/M6Ek7EjPxiQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ7LGToZf2BkTcDRdJDe5qDjvDUg)](https://youtu.be/M6Ek7EjPxiQ?feature=shared)
+[![Video](masdlave-YT-FCK.jpg)](https://youtu.be/M6Ek7EjPxiQ?feature=shared)
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masdlave) 
