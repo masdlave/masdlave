@@ -38,7 +38,6 @@
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)](https://github.com/masdlave/ALB-Doom-Mod)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)](https://github.com/masdlave/Space-Invaders-en-Java)
 ---
-#### Freenove 4WD Car Kit timelapse
 [![Video](masdlave-YT-FCK.jpg)](https://youtu.be/M6Ek7EjPxiQ?feature=shared)
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
