@@ -34,11 +34,11 @@
 [![Projects](masdlave-projects.jpg)](https://github.com/masdlave?tab=repositories)
 ## Proyectos destacados
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=masdlave&theme=light)](https://github.com/masdlave/masdlave)
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Arduino-4WD-Car-Kit)](https://github.com/masdlave/Arduino-4WD-Car-Kit)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Freenove-4WD-Car-Kit)](https://github.com/masdlave/Freenove-4WD-Car-Kit)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=ALB-Doom-Mod)](https://github.com/masdlave/ALB-Doom-Mod)
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=masdlave&repo=Space-Invaders-en-Java)](https://github.com/masdlave/Space-Invaders-en-Java)
 ---
-#### Arduino 4WD Car Kit timelapse
+#### Freenove 4WD Car Kit timelapse
 [![Video](https://i.ytimg.com/vi/M6Ek7EjPxiQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ7LGToZf2BkTcDRdJDe5qDjvDUg)](https://youtu.be/M6Ek7EjPxiQ?feature=shared)
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masdlave)
