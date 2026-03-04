@@ -8,8 +8,6 @@
 ---
 #OpenSource #FreeSoftware & #Development
 
----
-
 ## 𝗗𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗼 𝗰𝗼𝗻𝗻𝗲𝗰𝘁, 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲.
 
 Hoy existen más proyectos tecnológicos y creativos que nunca, y cada día surgen nuevas ideas que transforman nuestra forma de vivir. El interés y la curiosidad indefinida, la pasión por la tecnología y el compromiso con la comunidad del software libre es tan importante como colaborar en proyectos de código abierto.
