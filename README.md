@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?left=true&vCenter=true&color=373737&width=720&height=50&lines=Software+developer;Desarrollo+de+software;Automatización+y+domótica" />
+  <img src="https://readme-typing-svg.herokuapp.com/?left=true&vCenter=true&color=373737&width=720&height=50&lines=Software+developer;Desarrollo+de+software; Videojuegos;Automatización+y+domótica" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-373737?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masdlave)
